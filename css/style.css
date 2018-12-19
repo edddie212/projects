@@ -1,0 +1,26 @@
+
+.navbar-nav .nav-link:hover {
+    color: rgba(30, 144, 255) ! important;
+}
+
+.ydob   {
+    background-image: url('https://78.media.tumblr.com/94dc667212dfda56cfa961d6fe09aa4d/tumblr_nvgwlsl3wS1qh1n97o1_1280.jpg') ! important;
+    background-size : cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 100%;
+}
+.backTop {
+    position: fixed;
+    bottom: 25px;
+    right: 20px;
+
+
+}
+
+.header-top-hide {
+    height: 0px !important;
+    margin: 0;
+    padding: 0;
+}
